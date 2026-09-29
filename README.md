@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard that analyzes e-commerce sales performance across regions, products, countries, and payment channels. It helps business users see what drives revenue and profit and where to focus next.
 
-![Dashboard Preview](<img width="1057" height="593" alt="Screenshot 2026-09-19 102357" src="https://github.com/user-attachments/assets/014b332e-02d4-407f-a5aa-865de20f62d8" />
-)
+![Dashboard Preview]<img width="1057" height="593" alt="Screenshot 2026-09-19 102357" src="https://github.com/user-attachments/assets/8ac2bf2c-b7e6-40e0-92e4-006e4155526b" />
+
 
 ## 🎯 Objective
 To turn raw e-commerce transaction data into clear, actionable insights on sales, profit, product performance, regional contribution, and customer payment behavior.
